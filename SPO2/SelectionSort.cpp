@@ -1,7 +1,7 @@
 #include "Algo.h"
 #include "pch.h"
 
-void SelectionSort(int* arr, long size) {
+void SelectionSort(int arr[], int size) {
 	long i, j, k;
 	int tmp;
 
